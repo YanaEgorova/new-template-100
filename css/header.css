@@ -139,7 +139,7 @@ body.open-menu {
         align-items: center;
         justify-content: center;
 
-        border-right: .1rem solid var(--main-text-color);
+        border-right: .1rem solid var(--fourth-brand-color);
     }
     .nav__item:first-child {
         display: block;
